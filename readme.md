@@ -69,5 +69,8 @@ only be read through PPS pins, so 8 of them are occupied during measurement.
 
 ![](dense-perf.png)
 
+This project is *not affiliated with, endorsed by, or sponsored by Microchip Technology Inc.*
+"Microchip" and "CLB" are trademarks of *Microchip Technology Inc.*
+All product names, logos, and brands belong to their respective owners.
 
 
